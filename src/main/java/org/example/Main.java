@@ -21,7 +21,7 @@ public class Main {
         System.out.print("Genişlik: ");
         double width = scanner.nextDouble();
 
-        System.out.print("Yükseklik: ");
+        System.out.print("Yükseklik : ");
         double height = scanner.nextDouble();
 
         double rectangleResult = area(width, height);
